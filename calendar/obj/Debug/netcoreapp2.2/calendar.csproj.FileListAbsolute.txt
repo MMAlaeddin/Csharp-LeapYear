@@ -1,0 +1,9 @@
+/Users/mariamalaeddin/Desktop/calendar.solution/calendar/bin/Debug/netcoreapp2.2/calendar.deps.json
+/Users/mariamalaeddin/Desktop/calendar.solution/calendar/bin/Debug/netcoreapp2.2/calendar.dll
+/Users/mariamalaeddin/Desktop/calendar.solution/calendar/bin/Debug/netcoreapp2.2/calendar.pdb
+/Users/mariamalaeddin/Desktop/calendar.solution/calendar/obj/Debug/netcoreapp2.2/calendar.csprojAssemblyReference.cache
+/Users/mariamalaeddin/Desktop/calendar.solution/calendar/obj/Debug/netcoreapp2.2/calendar.csproj.CoreCompileInputs.cache
+/Users/mariamalaeddin/Desktop/calendar.solution/calendar/obj/Debug/netcoreapp2.2/calendar.AssemblyInfoInputs.cache
+/Users/mariamalaeddin/Desktop/calendar.solution/calendar/obj/Debug/netcoreapp2.2/calendar.AssemblyInfo.cs
+/Users/mariamalaeddin/Desktop/calendar.solution/calendar/obj/Debug/netcoreapp2.2/calendar.dll
+/Users/mariamalaeddin/Desktop/calendar.solution/calendar/obj/Debug/netcoreapp2.2/calendar.pdb
